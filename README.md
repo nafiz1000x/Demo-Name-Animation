@@ -11,24 +11,6 @@ Follow these steps to get the animation running:
    ```bash
    cd Demo-Name-Animation
    ```
-3. (Optional) Create a virtual environment
-   It's good practice to use a virtual environment:
-   · On Windows:
-     ```bash
-     python -m venv venv
-     venv\Scripts\activate
-     ```
-   · On macOS/Linux:
-     ```bash
-     python3 -m venv venv
-     source venv/bin/activate
-     ```
-4. Install required dependencies
-   If your script uses any external libraries, list them in a requirements.txt file and install them:
-   ```bash
-   pip install -r requirements.txt
-   ```
-   (Note: If you didn't use any external libraries, you can skip this step or mention that no installations are needed.)
 
 🎮 Usage
 
